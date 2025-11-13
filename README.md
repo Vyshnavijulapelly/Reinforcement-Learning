@@ -8,4 +8,5 @@
 # [Lab-08](https://colab.research.google.com/drive/1WUdXlijji9SvhWU0gettfz6DGzAdfrAE)
 # [Lab-09](https://colab.research.google.com/drive/1aKzpFZouyn54SxU47b39UMNH5a9FKrp1#scrollTo=ADIukhsERtPk)
 # [Lab-10](https://colab.research.google.com/drive/1VTgLoA_bfKIA-NWafUpa9-JLeIWtQKj1)
-# [Lab-11](https://canvas.instructure.com/courses/12526110/assignments/59882204)
+# [Lab-11](https://colab.research.google.com/drive/1pXpdscjDGHcHC5pjyE51rI9mjAI15S17)
+# [Lab-12](https://colab.research.google.com/drive/1LgFoRDLe-WiT6S6cB-FI25iZxPrIhyiC#scrollTo=qcyWEh3fYP1Z)
